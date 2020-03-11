@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90ccb45f-8f3e-4050-b736-ff270136b363" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YmnclaVKUc6rjvKHovvEDUhJII" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\work\src\react-test-redux-saga\" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90ccb45f-8f3e-4050-b736-ff270136b363" name="Default Changelist" comment="" />
+      <created>1583556718578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583556718578</updated>
+      <workItem from="1583556721278" duration="9000" />
+      <workItem from="1583718449310" duration="1308000" />
+      <workItem from="1583723752149" duration="20962000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="261" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583752988443">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="261" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1583752988443" />
+    <state x="184" y="26" key="SettingsEditor" timestamp="1583755401554">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="26" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1583755401554" />
+    <state x="471" y="399" key="run.anything.popup" timestamp="1583752048747">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="471" y="399" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1583752048747" />
+  </component>
+</project>
